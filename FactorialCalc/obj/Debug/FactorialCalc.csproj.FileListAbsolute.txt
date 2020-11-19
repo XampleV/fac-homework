@@ -1,0 +1,15 @@
+C:\Users\alshoubaki_mohammad\Source\Repos\FactorialCalc\FactorialCalc\bin\Debug\FactorialCalc.exe.config
+C:\Users\alshoubaki_mohammad\Source\Repos\FactorialCalc\FactorialCalc\bin\Debug\FactorialCalc.exe
+C:\Users\alshoubaki_mohammad\Source\Repos\FactorialCalc\FactorialCalc\bin\Debug\FactorialCalc.pdb
+C:\Users\alshoubaki_mohammad\Source\Repos\FactorialCalc\FactorialCalc\obj\Debug\FactorialCalc.csprojAssemblyReference.cache
+C:\Users\alshoubaki_mohammad\Source\Repos\FactorialCalc\FactorialCalc\obj\Debug\MainWindow.g.cs
+C:\Users\alshoubaki_mohammad\Source\Repos\FactorialCalc\FactorialCalc\obj\Debug\App.g.cs
+C:\Users\alshoubaki_mohammad\Source\Repos\FactorialCalc\FactorialCalc\obj\Debug\FactorialCalc_MarkupCompile.cache
+C:\Users\alshoubaki_mohammad\Source\Repos\FactorialCalc\FactorialCalc\obj\Debug\FactorialCalc_MarkupCompile.lref
+C:\Users\alshoubaki_mohammad\Source\Repos\FactorialCalc\FactorialCalc\obj\Debug\MainWindow.baml
+C:\Users\alshoubaki_mohammad\Source\Repos\FactorialCalc\FactorialCalc\obj\Debug\FactorialCalc.g.resources
+C:\Users\alshoubaki_mohammad\Source\Repos\FactorialCalc\FactorialCalc\obj\Debug\FactorialCalc.Properties.Resources.resources
+C:\Users\alshoubaki_mohammad\Source\Repos\FactorialCalc\FactorialCalc\obj\Debug\FactorialCalc.csproj.GenerateResource.cache
+C:\Users\alshoubaki_mohammad\Source\Repos\FactorialCalc\FactorialCalc\obj\Debug\FactorialCalc.csproj.CoreCompileInputs.cache
+C:\Users\alshoubaki_mohammad\Source\Repos\FactorialCalc\FactorialCalc\obj\Debug\FactorialCalc.exe
+C:\Users\alshoubaki_mohammad\Source\Repos\FactorialCalc\FactorialCalc\obj\Debug\FactorialCalc.pdb
